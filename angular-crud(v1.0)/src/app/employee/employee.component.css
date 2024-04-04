@@ -1,0 +1,11 @@
+input.ng-invalid.ng-touched{
+  border:  red 4px solid;
+
+}
+input.ng-untouched{
+  border: whites 4px solid;
+}
+small{
+  color: red;
+  font-weight: bold;
+}
